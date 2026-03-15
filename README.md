@@ -1,1 +1,0 @@
-# TE3001B_xArm_Teleoperacion_FuerzaF
